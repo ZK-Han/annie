@@ -1,4 +1,4 @@
-package douyin
+package eporner
 
 import (
 	"testing"
@@ -15,8 +15,10 @@ func TestDownload(t *testing.T) {
 		{
 			name: "normal test",
 			args: test.Args{
-				URL:   "https://www.douyin.com/video/6967223681286278436?previous_page=main_page&tab_name=home",
-				Title: "是爱情，让父子相认#陈翔六点半  #关于爱情",
+				URL:     "https://www.eporner.com/video-mbubfvXYFip/dirtywivesclub-becky-bandini/",
+				Quality: "1080p",
+				Size:    1525510307,
+				Title:   "DirtyWivesClub - Becky Bandini - EPORNER",
 			},
 		},
 	}

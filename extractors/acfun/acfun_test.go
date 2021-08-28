@@ -1,4 +1,4 @@
-package douyin
+package acfun
 
 import (
 	"testing"
@@ -15,8 +15,8 @@ func TestDownload(t *testing.T) {
 		{
 			name: "normal test",
 			args: test.Args{
-				URL:   "https://www.douyin.com/video/6967223681286278436?previous_page=main_page&tab_name=home",
-				Title: "是爱情，让父子相认#陈翔六点半  #关于爱情",
+				URL:   "https://www.acfun.cn/bangumi/aa6000686_36188_1704167",
+				Title: "瑞克和莫蒂 第四季 ：第2话 注释版",
 			},
 		},
 	}
